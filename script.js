@@ -16,3 +16,5 @@ for (let i = 1; i < num.length; i++){
     }
 }
 }
+
+console.log(menorOMayor())
